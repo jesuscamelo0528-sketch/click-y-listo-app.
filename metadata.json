@@ -1,0 +1,6 @@
+{
+  "name": "Click&Listo - Tienda de Barrio Valledupar",
+  "description": "App de comercio de barrio para Valledupar, Colombia con pedidos locales, domicilios rápidos y libreta digital de fiado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
